@@ -1,0 +1,15 @@
+.list-group .list-group-item {
+    cursor: pointer;
+}
+
+.list-group .list-group-item:hover {
+    background-color: #eee;
+}
+
+.list-group .list-group-item h5 {
+    font-size: .9rem;
+}
+
+.search-bar input {
+    width: 100%;
+}
